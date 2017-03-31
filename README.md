@@ -11,13 +11,10 @@ For detail information about each products (e.g. installation or benchmark), ple
 
 ## Table of Contents
 - Products
-  - [TerarkDB](https://github.com/Terark/terark-db/wiki)
-    - TerarkDB is a storage engine that uses Terark's searchable compression technology
-  - [Mongo on TerarkDB](https://github.com/Terark/mongo-on-terarkdb/wiki)
-    - A MongoDB that uses TerarkDB as its storage engine, via mongo-rocks
-  - [MySQL on TerarkDB](https://github.com/Terark/mysql-on-terarkdb/wiki)
-    - A MySQL that uses TerarkDB as its storage engine, via my-rocks
-- [Terark Core Tools](tools/tools.md)
-  - Toolkit that use Terark's core algorithms 
+  - Our core [TerarkDB](https://github.com/Terark/terark-db/wiki): is a Key-Value store based on Terark's searchable compression technology
+  - [Mongo on TerarkDB](https://github.com/Terark/mongo-on-terarkdb/wiki): Run MongoDB with TerarkDB as storage engine, via MongoRocks
+  - [MySQL on TerarkDB](https://github.com/Terark/mysql-on-terarkdb/wiki): Run MySQL with TerarkDB as storage engine, via MyRocks
+- [Terark Core Command Tools](tools/tools.md)
+  - Command line tools using Terark's core algorithms 
 - [Rank-Select](rankselect/rankselect.md)
-  - Rank-Select is the fundamental of Succinct Data Structures 
+  - Rank-Select is the infrastructure of Succinct Data Structures 
