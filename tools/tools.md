@@ -12,9 +12,9 @@
 Please check your gcc version and CPU for downloading the corresponding package.
 
 After you un-packed the package, the directory woule looks like:
-
-    root = pkg/terark-fsa_all-Linux-x86_64-g++-**VERSION**-bmi2-**X**
-
+<code>
+root = pkg/terark-fsa_all-Linux-x86_64-g++-<strong>VERSION</strong>-bmi2-<strong>X</strong>
+</code>
 |Dir|Description|
 --------|---------|
 root/bin| **Command Line Tools** |
