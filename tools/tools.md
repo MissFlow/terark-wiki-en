@@ -14,7 +14,7 @@ Please check your gcc version and CPU for downloading the corresponding package.
 After you un-packed the package, the directory woule looks like:
 <p>
 <code>
-    root = pkg/terark-fsa_all-Linux-x86_64-g++-<strong style="color:RED">VERSION</strong>-bmi2-<strong style="color:RED">X</strong>
+    root = pkg/terark-fsa_all-Linux-x86_64-g++-<strong style="color:red">VERSION</strong>-bmi2-<strong style="color:red">X</strong>
 </code>
 </p>
 
