@@ -11,7 +11,7 @@ For detail information about each products (e.g. installation or benchmark), ple
 
 ## Table of Contents
 - Products
-  - Our core [TerarkDB](https://github.com/Terark/terark-db/wiki): Key-Value store based on Terark's searchable compression technology
+  - Our core [TerarkDB](https://github.com/Terark/terarkdb/wiki): Key-Value store based on Terark's searchable compression technology
   - [Mongo on TerarkDB](https://github.com/Terark/mongo-on-terarkdb/wiki): MongoDB with TerarkDB as storage engine, via MongoRocks
   - [MySQL on TerarkDB](https://github.com/Terark/mysql-on-terarkdb/wiki): MySQL with TerarkDB as storage engine, via MyRocks
 - [Terark Command Line Tools](tools/tools.md)
